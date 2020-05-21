@@ -1,3 +1,6 @@
+## Management System
+나동빈님의 영상을 보고 만들었습니다. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
